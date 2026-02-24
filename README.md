@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Selin Türkdoğan 👋
 
-<!--
-**selinturkdogan/selinturkdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Final International University, North Cyprus.
+Currently building backend systems with Python and FastAPI.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks:** FastAPI
+- **Tools:** Git, Docker, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Backend Development & DevOps (SFWE477)
+- Mobile Application Development
+
+## 🔗 Connect With Me
+- [LinkedIn] www.linkedin.com/in/selinturkdogan
+- [LeetCode] https://leetcode.com/u/selinturkdogan/
+- 📧 turkdogan.selinn@gmail.com
+- 📧 selin.turkdogan@final.edu.tr
+
+## 📌 Featured Projects
+- [Churn-Project] https://github.com/selinturkdogan/Churn-Project — Churn Project (ML)
+- [MyPortwolio] https://github.com/selinturkdogan/MyPortwolio — Personal portfolio project
+- [E-commerce-app-microservices] https://github.com/selinturkdogan/E-commerce-app-microservices — E-commerce-app-microservices
+- [realtimeChatApp] https://github.com/selinturkdogan/realtimeChatApp — Real time chat application
+- [movie-search-app] https://github.com/selinturkdogan/movie-search-app — Movie Search Application
+- [Snake-Game] https://github.com/selinturkdogan/Snake-Game — Retro style snake game
+```
