@@ -4,12 +4,12 @@ I'm a Software Engineering student at Final International University, North Cypr
 Currently building backend systems with Python and FastAPI.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL
-- **Frameworks:** FastAPI
-- **Tools:** Git, Docker, PostgreSQL, MongoDB
+- **Languages:** Python, JavaScript, HTML,CSS
+- **Frameworks:** FastAPI, React
+- **Tools:** Git, Docker, Supabase
 
 ## 📚 Currently Learning
-- Backend Development & DevOps (SFWE477)
+- Backend Development & DevOps 
 - Mobile Application Development
 
 ## 🔗 Connect With Me
