@@ -14,7 +14,6 @@ Currently building backend systems with Python and FastAPI.
 
 ## 🔗 Connect With Me
 - [LinkedIn] www.linkedin.com/in/selinturkdogan
-- [LeetCode] https://leetcode.com/u/selinturkdogan/
 - 📧 turkdogan.selinn@gmail.com
 - 📧 selin.turkdogan@final.edu.tr
 
