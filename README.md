@@ -19,6 +19,7 @@ Currently building backend systems with Python and FastAPI.
 - 📧 selin.turkdogan@final.edu.tr
 
 ## 📌 Featured Projects
+- [campus-lost-found] https://github.com/selinturkdogan/campus-lost-found.git 
 - [Churn-Project] https://github.com/selinturkdogan/Churn-Project — Churn Project (ML)
 - [MyPortwolio] https://github.com/selinturkdogan/MyPortwolio — Personal portfolio project
 - [realtimeChatApp] https://github.com/selinturkdogan/realtimeChatApp — Real time chat application
