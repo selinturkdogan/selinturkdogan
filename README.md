@@ -1,12 +1,11 @@
 # Hi, I'm Selin Türkdoğan 👋
 
 I'm a Software Engineering student at Final International University, North Cyprus.
-Currently building backend systems with Python and FastAPI.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, HTML,CSS
-- **Frameworks:** FastAPI, React
-- **Tools:** Git, Docker, Supabase
+- **Languages:** Python, JavaScript, HTML, CSS, C, C++
+- **Frameworks:** FastAPI, React, Dart
+- **Tools:** Git, Docker, Supabase, Firebase
 
 ## 📚 Currently Learning
 - Backend Development & DevOps 
