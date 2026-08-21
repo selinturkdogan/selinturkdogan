@@ -18,6 +18,7 @@ I'm a Software Engineering student at Final International University, North Cypr
 - 📧 selin.turkdogan@final.edu.tr
 
 ##  Featured Projects
+- [campusconnect] https://github.com/selinturkdogan/campusconnect.git
 - [campus-lost-found] https://github.com/selinturkdogan/campus-lost-found.git 
 - [Churn-Project] https://github.com/selinturkdogan/Churn-Project — Churn Project (ML)
 - [MyPortwolio] https://github.com/selinturkdogan/MyPortwolio — Personal portfolio project
