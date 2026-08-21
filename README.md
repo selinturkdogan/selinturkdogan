@@ -7,10 +7,6 @@ I'm a Software Engineering student at Final International University, North Cypr
 - **Frameworks:** FastAPI, React, Dart
 - **Tools:** Git, Docker, Supabase, Firebase
 
-##  Currently Learning
-- Backend Development & DevOps 
-- Mobile Application Development
-
 ##  Connect With Me
 - [LinkedIn] www.linkedin.com/in/selinturkdogan
 - [LeetCode] https://leetcode.com/u/selinturkdogn/
